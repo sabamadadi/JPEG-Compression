@@ -1,4 +1,4 @@
-# JPEG-Compression
+# JPEG Compression
 
 Implementing the stages of JPEG compression!
 
